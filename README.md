@@ -5,4 +5,6 @@ This is a collection of dotfiles I have created for my Wayland enviornment. It's
 # Environment
 WM: [Hyprland](https://hypr.land) <br>
 bar: [ewww](https://github.com/elkowar/eww) <br>
-application launcher: [rofi](https://github.com/davatorium/rofi)
+application launcher: [rofi](https://github.com/davatorium/rofi) <br>
+lock: [hyprlock](https://github.com/hyprwm/hyprlock) <br>
+wallpaper: [swww](https://github.com/LGFae/swww) <br>
