@@ -1,0 +1,53 @@
+* {
+  all: unset; // Unsets everything allows for style everything from scratch
+}
+
+//Global Styles
+.topbar {
+  font-family: "Hack Nerd Font Mono";
+}
+
+//Class Style
+.bar {
+  background-color: rgba(0,0,0,0.5);
+}
+
+.timeWidget {
+  border: 2px solid #f5a97f;
+  border-radius: 10px;
+  color: #f5a97f;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.timeText {
+  margin-left: 4px;
+  margin-right: 4px;
+  font-weight: bold;
+}
+
+.workSpaceWidget {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin-left: 2px;
+  border: 2px solid #F5A97F;
+  border-radius: 10px;
+}
+
+.workSpaceButton {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.workSpaceWidget button:hover {
+  color: #F5a97F;
+}
+
+.ws-active {
+  color: #F5A97F;
+}
+
+.sysTrayWidget {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
