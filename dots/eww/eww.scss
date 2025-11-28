@@ -14,7 +14,7 @@
 
 .timeWidget {
   border: 2px solid #f5a97f;
-  border-radius: 10px;
+  border-radius: 15px;
   color: #f5a97f;
   margin-top: 4px;
   margin-bottom: 4px;
@@ -31,7 +31,7 @@
   margin-bottom: 4px;
   margin-left: 2px;
   border: 2px solid #F5A97F;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 .workSpaceButton {
@@ -50,4 +50,15 @@
 .sysTrayWidget {
   margin-top: 4px;
   margin-bottom: 4px;
+  border-radius: 15px;
+  border: 2px solid #F5A97F;
+  background-color: #F5A97F;
+}
+
+.systemTray menu {
+  padding: 4px;
+  border: 2px solid #F5A97F;
+  border-radius: 15px;
+  background-color: #F5A97F;
+  color: #000000;
 }
