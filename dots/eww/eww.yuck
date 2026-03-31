@@ -16,7 +16,6 @@
 (defwidget workSpaceWidget []
   (box :class "workSpaceWidget"
        :halign "start"
-       :hexpand false
     (box :class "workSpaceButton"
       (button :class {active_workspace == 1 ? "ws-active" : "ws"}
               :onclick "hyprctl dispatch workspace 1" 1
@@ -43,7 +42,6 @@
   (box :class "timeWidget"
        :halign "center"
     (box :class "timeText"
-       :hexpand false
       time
     )
   )
@@ -56,7 +54,7 @@
        :hexpand true
        :space-evenly true
     (systray :class "systemTray"
-             :spacing: 4
+             :spacing 4
              :icon-size 20
              :prepend-new true
     )
@@ -66,8 +64,6 @@
 ;;;;;;;;;;;
 ;;Windows;;
 ;;;;;;;;;;;
-
-
 ;;topbar
 (defwindow topbar
   :monitor 0
