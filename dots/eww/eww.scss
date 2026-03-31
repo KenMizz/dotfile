@@ -50,9 +50,14 @@
 .sysTrayWidget {
   margin-top: 4px;
   margin-bottom: 4px;
+  margin-right: 4px;
   border-radius: 15px;
   border: 2px solid #F5A97F;
   background-color: #F5A97F;
+}
+
+.systemTray {
+  margin-left: 4px;
 }
 
 .systemTray menu {
