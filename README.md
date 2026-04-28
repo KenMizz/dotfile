@@ -7,4 +7,4 @@ WM: [Hyprland](https://hypr.land) <br>
 bar: [ewww](https://github.com/elkowar/eww) <br>
 application launcher: [rofi](https://github.com/davatorium/rofi) <br>
 lock: [hyprlock](https://github.com/hyprwm/hyprlock) <br>
-wallpaper: [swww](https://github.com/LGFae/swww) <br>
+wallpaper: [awww](https://codeberg.org/LGFae/awww) <br>
